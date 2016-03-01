@@ -8,12 +8,10 @@ git init ;
 
 git add * ;
 git commit -m 'initial commit' ;
-
+#git remote add origin https://github.com/amrdraz/se-assignment.git
 git remote add origin https://github.com/hazem62/test.git ;
 git push origin master ;
 
-#git remote add origin https://github.com/amrdraz/se-assignment
-#git remote add origin https://github.com/hazem62/test ;
 
-#git push -u origin master ;
+
 
